@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Gloucester-shire ministers testimony to the truth of Jesus Christ, and to the Solemne League and Covenant; as also, against the errours, heresies, and blasphemies of these times, and the toleration of them. Sent to the ministers within the province of London, subscribers of the former testimony. Together with a letter annexed, from a faithfull minister, to a friend of his in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86044</idno>
+            <idno type="STC">Wing G885</idno>
+            <idno type="STC">Thomason E433_25</idno>
+            <idno type="STC">ESTC R206208</idno>
+            <idno type="EEBO-CITATION">99865381</idno>
+            <idno type="PROQUEST">99865381</idno>
+            <idno type="VID">161553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161553)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Gloucester-shire ministers testimony to the truth of Jesus Christ, and to the Solemne League and Covenant; as also, against the errours, heresies, and blasphemies of these times, and the toleration of them. Sent to the ministers within the province of London, subscribers of the former testimony. Together with a letter annexed, from a faithfull minister, to a friend of his in London.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Cowles,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: I.W.</note>
+                  <note>Annotation on Thomason copy: "March 28th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Clergy --  England --  Gloucestershire --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161553:1" rendition="simple:additions"/>
+            <p>The <hi>Glouceſter ſhire</hi> Miniſters TESTIMONY TO THE Truth of Jeſus Chriſt, AND TO <hi>The Solemne League and Covenant;</hi> AS ALSO, Againſt the Errours, Hereſies, and Blaſphe<g ref="char:EOLhyphen"/>mies of theſe times, and the Toleration <hi>of them.</hi>
+            </p>
+            <p>Sent to the Miniſters within the Province of <hi>London,</hi> Subſcribers of the former <hi>Teſtimony.</hi>
+            </p>
+            <p>Together with a Letter annexed, from a faithfull Miniſter, to a Friend of his in <hi>London.</hi>
+            </p>
+            <p>
+               <add>March 28<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON.</hi> Printed by <hi>John Clowes.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161553:2"/>
+            <pb n="1" facs="tcp:161553:2"/>
+            <head>THE CONCVRRENT Subſcriptions of us Miniſters of the Goſpel in the County of GLOUCESTER, with our Reverend Brethren, the Miniſters of <hi>Chriſt,</hi> within the Province of <hi>London.</hi>
+            </head>
+            <head type="sub">To a Teſtimony to the truth of Jeſus Chriſt and to our ſolemne League and Covenant: As alſo againſt the Errors, Hereſies, and Blaſ<g ref="char:EOLhyphen"/>phemies of theſe times.</head>
+            <opener>
+               <salute>Reverend, and beloved brethren,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E have lately ſeene, and ſeri<g ref="char:EOLhyphen"/>ouſly peruſed a Booke enti<g ref="char:EOLhyphen"/>tuled as above, and ſubſcri<g ref="char:EOLhyphen"/>bed by you, with a great deale of ſatisfaction, and contentment; wherein you have ſpoken the very thoughts of our hearts, and our Judgements freely and ful<g ref="char:EOLhyphen"/>ly concurre with you, and ſhall bee ever
+<pb n="2" facs="tcp:161553:3"/>ready to diſcharge, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cquit ourſelves, and our Conſciences, with you, with the hazzard of our very lives, both in maine<g ref="char:EOLhyphen"/>taining our ſolemne league and Covenant, as alſo in prote<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in our places and cal<g ref="char:EOLhyphen"/>lings, againſt theſe inundations of Errors and Hereſies, which all other our endea<g ref="char:EOLhyphen"/>vours and addreſſes, are not able to hinder.</p>
+            <closer>
+               <signed>I ſubſcribe with the reſervation of my Brethren of the Aſſembly in the teſtimony.
+<list>
+                     <item>
+                        <hi>William Mew.</hi> 
+                     </item>
+                     <item>
+                        <hi>Tho: Iackſon</hi> Minſter at <hi>Glouceſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Io: Trap</hi> Miniſter of <hi>Welford.</hi>
+                     </item>
+                     <item>
+                        <hi>William Edwards</hi> Miniſter of <hi>Tedbury.</hi>
+                     </item>
+                     <item>
+                        <hi>William Dolman</hi> Miniſter of <hi>Hampton.</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Gregory</hi> Miniſter of <hi>Cyrenceſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Sta<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>field</hi> Miniſter of <hi>R<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dborough.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Britten</hi> Miniſter of <hi>Biſleigh.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Kent</hi> Miniſter of <hi>Wotton, Subedge.</hi>
+                     </item>
+                     <item>
+                        <hi>William Hall</hi> Miniſter of <hi>Aveninge.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Hall</hi> Miniſter of <hi>Beverſtone.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo: Vaen</hi> Miniſter of <hi>Vleigh.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Gwinne</hi> Miniſter of <hi>C<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>wley.</hi>
+                     </item>
+                     <item>
+                        <hi>Obadiah Higgins</hi> Miniſter of <hi>Weekewarre.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Fowler</hi> Miniſter of <hi>Weſterleigh.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Stephenſen</hi> Miniſter of <hi>Tormarton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Sheeve</hi> Miniſter of <hi>Oldſodbury.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Greenehald</hi> Miniſter of <hi>Dodington.</hi>
+                     </item>
+                     <pb n="3" facs="tcp:161553:3"/>
+                     <item> 
+                        <hi>Thomas Sar.</hi> Miniſter of <hi>Redford.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Hurſt</hi> Miniſter of <hi>Mickleton.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Riland</hi> Miniſter of the Goſpel.</item>
+                     <item>
+                        <hi>William Albright</hi> Miniſter of <hi>Clifford.</hi>
+                     </item>
+                     <item>
+                        <hi>Io: Batchelour</hi> Preacher of the Goſpel.</item>
+                     <item>
+                        <hi>William Cooper</hi> Miniſter at <hi>Marſton Sitra.</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Wharton</hi> Sen. Miniſter of <hi>Child-Wickam.</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Wharton</hi> Iu. Preacher of Gods Word.</item>
+                     <item>
+                        <hi>Jonathan Davis</hi> Preacher of Gods Word.</item>
+                     <item>
+                        <hi>Richard Davis</hi> Miniſter of <hi>Buckland.</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Pilſworth</hi> Miniſter of <hi>Ozelworth.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Hieron</hi> Miniſter of <hi>Horſley.</hi>
+                     </item>
+                     <item>
+                        <hi>Io: Pell</hi> Miniſter of <hi>Hawks bury.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Heane</hi> Miniſter of <hi>Olveſton.</hi>
+                     </item>
+                     <item>
+                        <hi>Giles VVorkman</hi> Miniſter of <hi>Alderly.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Barnſdale</hi> Miniſter of <hi>Chipping-Sodbury.</hi>
+                     </item>
+                     <item>
+                        <hi>Io: Nelme</hi> Miniſter of <hi>Michaels,</hi> Glouceſter.</item>
+                     <item>
+                        <hi>Tho: Eaſton</hi> Miniſter of <hi>Battleford.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. VVickins</hi> Miniſter of <hi>Todenham.</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Reale</hi> miniſter of <hi>Stowwold.</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Tray</hi> Miniſter of <hi>Odington.</hi>
+                     </item>
+                     <item>
+                        <hi>Giles Oldiſworth</hi> Miniſter of <hi>Bunton</hi> Supra Mont.</item>
+                     <item>
+                        <hi>James Rutherford</hi> D. D. Miniſter of <hi>Nympsfield.</hi>
+                     </item>
+                     <item>
+                        <hi>Helye Fox</hi> Miniſter of <hi>VVood cheſter.</hi>
+                     </item>
+                     <item>
+                        <hi>VValter Prichard</hi> Miniſter of <hi>Froceſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: VVallas</hi> Miniſter of <hi>Stonehouſe.</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Hodges</hi> Miniſter of <hi>King ſtauly.</hi>
+                     </item>
+                     <item>
+                        <hi>William Hodges</hi> Miniſter of <hi>Newington Bagpath.</hi>
+                     </item>
+                     <item>
+                        <hi>Ben: Iones</hi> Miniſter of Chriſts Goſpel.</item>
+                     <item>
+                        <hi>Richard Eedes</hi> Miniſter of <hi>Beckford.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioſeph Malden</hi> Miniſter of <hi>Aſckurch.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Palmer</hi> Miniſter of <hi>Burton</hi> ſupra aquam.</item>
+                     <pb n="4" facs="tcp:161553:4"/>
+                     <item> 
+                        <hi>Ezra Grayle</hi> Miniſter of <hi>Laſsington.</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Edwards</hi> Miniſter of <hi>Barnewoode.</hi>
+                     </item>
+                     <item>
+                        <hi>George Dorwood</hi> Miniſter of <hi>Painſweeke</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: Iennings</hi> Miniſter of <hi>Matſon.</hi>
+                     </item>
+                     <item>
+                        <hi>VValter Powell</hi> Miniſter of <hi>Standiſh.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Cox</hi> Miniſter of <hi>Boxwell.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas VVorrall</hi> Miniſter of <hi>Stanley Leonard.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioſ. VVordward</hi> Miniſter of <hi>Durſley.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Briſtoll</head>
+                     <item>
+                        <hi>Henry Stubs</hi> Lecturer at <hi>Phillips.</hi>
+                     </item>
+                     <item>
+                        <hi>Io: Paul</hi> Miniſter at <hi>Iames.</hi>
+                     </item>
+                     <item>
+                        <hi>Conſtant Ieſſop</hi> Miniſter of <hi>Nicholas.</hi>
+                     </item>
+                  </list>
+               </signed> We likewiſe whoſe names are here ſubſcribed, to whom the Covenant was never tendered, doe not<g ref="char:EOLhyphen"/>withſtanding concurre with our Bretheren to the Teſtimony of Ieſus Chriſt, againſt all Errors and Hereſies.
+<signed>
+                  <list>
+                     <item>
+                        <hi>VVilliam Iones</hi> Miniſter of Chriſt in <hi>Tedrington.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Cooper</hi> Miniſter at <hi>Tewksbury.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Beeſten</hi> Miniſter of <hi>Tyrley.</hi>
+                     </item>
+                     <item>
+                        <hi>Benjamin Baxter</hi> miniſter of <hi>Forthampton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:161553:4"/>
+            <head>
+               <hi>A Letter from a faithfull Miniſter to a friend of his in</hi> London.</head>
+            <opener>
+               <salute>Deare Brother,</salute>
+            </opener>
+            <p>I Have ſent the Concurrent ſubſcriptions of the Miniſters of GLOUCESTER-Shire, and thus much they aſſure you that they could largely expatiate in their af<g ref="char:EOLhyphen"/>fections to you, if they did not deſire to be of the number of them that act much and ſpeake little, and truly they as earneſtly de<g ref="char:EOLhyphen"/>ſire to bee found faithfull in this cauſe (to which they are ſo ſolemnly engaged) as they deſire the Lord Ieſus to plead for them in that great day; and they have all ſet up their reſolutions with God, that it is better to dye Martyrs then Mongrels. Wherefore they deſire you to go on in the name of the Lord, and the Lord help you to abound in this glorious work, in as much as your labour ſhall not be in vain in the Lord. The people are ſo taken, that as I underſtand, they are ſe<g ref="char:EOLhyphen"/>conding their Miniſters Subſcriptions with a Petition to the Parliament, for a ſettlement in government, and they all ſay the breach
+<pb n="6" facs="tcp:161553:5"/>of Covenant will ruine them and their po<g ref="char:EOLhyphen"/>ſterity, without ſpeedy repentance, neither can they be ever brought to beleeve that the fruit of all their prayers, ſighes, teares, and ſufferings, yea the very blood of their friends and children ſhall produce nothing at laſt, but a curſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and monſtrous Tolera<g ref="char:EOLhyphen"/>tion. Bleſſed be the God of heaven who hath ſet you upon ſuch a worke as this, tis the very alarum of God to awaken the whole Land, we looke upon it as a pledge of the Lords favour to this wretched King<g ref="char:EOLhyphen"/>dom, as the arrow of the Lords deliverance, as the bleſſing in the bunch, as Manna in wilderneſſe, as water in the Deſart, as that which ſhall bee abundantly rewarded to you. The Lord Ieſus be with your ſpirits. Amen.</p>
+            <closer>
+               <signed>The moſt unworthy of the Servants of Ieſus Chriſt. <hi>I.W.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
